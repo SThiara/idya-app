@@ -4,6 +4,6 @@ To run the project, first run 'npm install' in the root and client folders. Foll
 
 ## Screenshots
 
-!["Screenshot of Markers"]()
+!["Screenshot of Markers"](https://github.com/SThiara/idya-app/blob/main/screenshots/closeup.png?raw=true)
 
-!["Screenshot of Markers"]()
+!["Screenshot of App"](https://github.com/SThiara/idya-app/blob/main/screenshots/wideshot.png?raw=true)
